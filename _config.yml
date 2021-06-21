@@ -36,9 +36,9 @@ features                                  :
     description                           : As an official partner app of Geocaching HQ we use the API and authenticate with geocaching.com.
     fontawesome_icon_name                 : handshake
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : 900,000
+    description                           : Search for over 900,000 Waymarks across the globe!
+    fontawesome_icon_name                 : search
 
   - title                                 : Video Support
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
