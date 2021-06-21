@@ -36,7 +36,7 @@ features                                  :
     description                           : As an official partner app of Geocaching HQ we use the API and authenticate with geocaching.com.
     fontawesome_icon_name                 : handshake
     
-  - title                                 : 900,000
+  - title                                 : Search the Globe
     description                           : Search for over 900,000 Waymarks across the globe!
     fontawesome_icon_name                 : search
 
