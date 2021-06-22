@@ -43,7 +43,7 @@ features                                  :
 
   - title                                 : Log a Visit
     description                           : Quickly log your visit right from the app.
-    fontawesome_icon_name                 : edit
+    fontawesome_icon_name                 : pencil-alt
 
   - title                                 : Search Filtering
     description                           : Hide your visits and hides or filter by categories.
