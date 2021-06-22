@@ -63,7 +63,7 @@ features                                  :
 
   - title                                 : Export GPX
     description                           : Save a GPX for use in Cachly or other apps.
-    fontawesome_icon_name                 : file-export
+    fontawesome_icon_name                 : share
 
   - title                                 : Text Templates
     description                           : Custom log text templates for quick usage.
