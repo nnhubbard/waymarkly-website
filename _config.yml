@@ -43,7 +43,7 @@ features                                  :
     fontawesome_icon_name                 : pencil-alt
     
   - title                                 : Browse Categories
-    description                           : Navigate through all available categories
+    description                           : Navigate through all Waymarking categories
     fontawesome_icon_name                 : bars
 
   - title                                 : Search Filtering
