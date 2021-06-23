@@ -73,6 +73,10 @@ features                                  :
   - title                                 : Proximity Alert
     description                           : Get alerted when you come close to a Waymark.
     fontawesome_icon_name                 : bullseye
+    
+  - title                                 : Navigate
+    description                           : Use in-app navigation or send location to other apps.
+    fontawesome_icon_name                 : directions
 
 
 
